@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    min-width: 300px;
+    flex-direction: column;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center
+}
